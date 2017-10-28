@@ -1,0 +1,345 @@
+.Desktop-Facebook-Connect {
+  width: 1440px;
+  height: 2166px;
+  background-color: #ffffff;
+}
+.Rectangle {
+  width: 1440px;
+  height: 60px;
+  background-color: #000000;
+}
+.logo {
+ margin-right: 400px;
+ 
+}
+.pop-culture {
+  width: 77px;
+  height: 18px;
+  font-family: Aleo;
+  font-size: 15px;
+  text-align: left;
+  color: #ffffff;
+ margin-bottom: 20px;
+ margin-right:20px;
+  
+}
+.design {
+  width: 44px;
+  height: 18px;
+  font-family: Aleo;
+  font-size: 15px;
+  text-align: left;
+  color: #ffffff;
+  margin-right:20px;
+}
+.photography {
+  width: 87px;
+  height: 18px;
+  font-family: Aleo;
+  font-size: 15px;
+  text-align: left;
+  color: #ffffff;
+  margin-right:20px;
+}
+.about-us {
+  width: 57px;
+  height: 18px;
+  font-family: Aleo;
+  font-size: 15px;
+  text-align: left;
+  color: #ffffff;
+  margin-right:250px;
+}
+.maxime {
+	width: 112px;
+  height: 18px;
+ color: #ffffff;
+}
+
+li {
+	display: inline-block;
+	list-style: none; 
+	
+}
+a:link 
+{ 
+ text-decoration:none; 
+}
+ 
+.Mask {
+  width: 100%;
+  height: 576px;
+  background-color: #d8d8d8;
+}
+
+.big_img {
+  width: 1440px;
+  height: 576px;
+  position:absolute;
+  
+}
+.Discov_smartnews {
+  width: 570px;
+  height: 144px;
+  font-family: Aleo;
+  font-size: 60px;
+  margin-top:226px;
+  margin-bottom:206px;
+  margin-left:435px;
+  margin-right:435px;
+  font-weight: bold;
+  text-align: center;
+  color: #ffffff;
+  position:absolute;
+ 
+}
+
+
+.Lat_news {
+  width: 217px;
+  height: 48px;
+  font-family: Aleo;
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  color: #000000;
+  margin-bottom:30px;
+}
+.Image {
+  width: 450px;
+  height: 339px;
+  object-fit: contain;
+}
+.Stranger-Things-2-Am {
+  width: 450px;
+  height: 80px;
+  font-family: Aleo;
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 1.33;
+  text-align: left;
+  color: #000000;
+}
+.La-deuxime-saison-d {
+  width: 410px;
+  height: 48px;
+  font-family: Roboto;
+  font-size: 16px;
+  line-height: 1.5;
+  text-align: left;
+  color: #000000;
+}
+
+.Beautiful-Series-Acr {
+  width: 450px;
+  height: 40px;
+  font-family: Aleo;
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 1.33;
+  text-align: left;
+  color: #000000;
+}
+.Le-photographe-Akos {
+  width: 410px;
+  height: 48px;
+  font-family: Roboto;
+  font-size: 16px;
+  line-height: 1.5;
+  text-align: left;
+  color: #000000;
+}
+
+.Game-of-Thrones-Crys {
+  width: 450px;
+  height: 80px;
+  font-family: Aleo;
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 1.33;
+  text-align: left;
+  color: #000000;
+}
+.Dans-cette-srie-de {
+  width: 410px;
+  height: 48px;
+  font-family: Roboto;
+  font-size: 16px;
+  line-height: 1.5;
+  text-align: left;
+  color: #000000;
+}
+
+.Colorful-Doors-of-Du {
+  width: 450px;
+  height: 80px;
+  font-family: Aleo;
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 1.33;
+  text-align: left;
+  color: #000000;
+}
+.Passionn-par-lart {
+  width: 410px;
+  height: 48px;
+  font-family: Roboto;
+  font-size: 16px;
+  line-height: 1.5;
+  text-align: left;
+  color: #000000;
+}
+
+.Alexander-Semenov-Ex {
+  width: 450px;
+  height: 80px;
+  font-family: Aleo;
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 1.33;
+  text-align: left;
+  color: #000000;
+}
+.Alexander-Semenov-es {
+  width: 410px;
+  height: 48px;
+  font-family: Roboto;
+  font-size: 16px;
+  line-height: 1.5;
+  text-align: left;
+  color: #000000;
+}
+
+.Ghostly-Floating-Ins {
+  width: 450px;
+  height: 80px;
+  font-family: Aleo;
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 1.33;
+  text-align: left;
+  color: #000000;
+}
+.Edoardo-Tresoldi-exp {
+  width: 410px;
+  height: 48px;
+  font-family: Roboto;
+  font-size: 16px;
+  line-height: 1.5;
+  text-align: left;
+  color: #000000;
+}
+
+@media screen and (max-width:700px){
+    table, tr, td{
+        display: block;
+        width: auto!important;
+    }
+    
+}
+
+.allign {
+  width: 450px;
+  height: 165px;
+  background-color: #ffffff;
+}
+
+.btn_likes {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+}
+.-likes {
+  height: 20px;
+  font-family: Roboto;
+  font-size: 17px;
+  font-weight: 500;
+  text-align: left;
+  margin-right: 100px;
+  color: rgba(0, 0, 0, 0.4);
+}
+.btn_comments {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+}
+.-comments {
+  width: 105px;
+  height: 20px;
+  font-family: Roboto;
+  font-size: 17px;
+  font-weight: 500;
+  text-align: left;
+  color: rgba(0, 0, 0, 0.4);
+  /*margin-right: 0px;*/
+}
+
+.Rectangle-2 {
+  /*width: 100%;*/
+  height: 60px;
+  border: solid 1px #000000;
+  margin-left: 15px;
+  margin-right:15px;
+  margin-top:72px;
+  margin-bottom:50px;
+}
+.load-more {
+ /*width: 143px;*/
+  height: 40px;
+  margin-top: 10px;
+  font-family: Aleo;
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 2;
+  letter-spacing: 2.4px;
+  text-align: center;
+  color: #000000;
+  text-transform: uppercase;
+}
+
+.Rectangle-7 {
+  width: 1440px;
+  height: 1px;
+  background-color: #d8d8d8;
+  border: solid 1px rgba(0, 0, 0, 0.2);
+}
+
+.Rectangle-6 {
+  width: 1440px;
+  height: 60px;
+  background-color: #ffffff;
+  bottom: 0px;
+}
+.Instagram {
+  width: 69px;
+  height: 18px;
+  font-family: Aleo;
+  font-size: 15px;
+  text-align: left;
+  color: rgba(0, 0, 0, 0.8);
+  margin-left:15px;
+}
+.Facebook {
+  width: 65px;
+  height: 18px;
+  font-family: Aleo;
+  font-size: 15px;
+  text-align: left;
+  color: rgba(0, 0, 0, 0.8);
+}
+.Twitter {
+  width: 51px;
+  height: 18px;
+  font-family: Aleo;
+  font-size: 15px;
+  text-align: left;
+  color: rgba(0, 0, 0, 0.8);
+}
+.Terms-of-Service-and {
+  width: 195px;
+  height: 18px;
+  font-family: Aleo;
+  font-size: 15px;
+  text-align: left;
+  color: rgba(0, 0, 0, 0.8);
+}
